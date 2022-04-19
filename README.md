@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AAP-33
+- 👋 Hi, I’m Aman Aditya Pandey
 - 👀 I’m interested in Java and Coding
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ...
